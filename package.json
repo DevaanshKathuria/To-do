@@ -1,5 +1,5 @@
 {
-  "homepage" : "https://DevaanshKathuria.github.io/To-do",
+  "homepage": "https://DevaanshKathuria.github.io/To-do",
   "name": "my-react-app-1",
   "private": true,
   "version": "0.0.0",
@@ -8,7 +8,7 @@
     "dev": "vite",
     "predeploy": "npm run build",
     "build": "vite build",
-    "deploy":"gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
